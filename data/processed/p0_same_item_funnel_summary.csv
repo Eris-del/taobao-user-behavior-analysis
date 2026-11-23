@@ -1,0 +1,2 @@
+pv_pairs,interest_pairs,fav_after_pv_pairs,cart_after_pv_pairs,buy_after_pv_pairs,buy_after_interest_pairs,fav_to_buy_pairs,cart_to_buy_pairs,direct_buy_pairs,pv_to_interest_rate,pv_to_fav_rate,pv_to_cart_rate,interest_to_buy_rate,fav_to_buy_rate,cart_to_buy_rate,pv_to_buy_rate_including_direct,direct_buy_share
+71015192,1077920,336357,760252,992872,94032,26846,69666,898840,0.015179,0.004736,0.010705,0.087235,0.079814,0.091635,0.013981,0.905293
